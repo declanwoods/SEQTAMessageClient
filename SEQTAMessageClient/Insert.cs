@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SEQTAMessageClient
 {
-    public partial class Form1 : Form
+    public partial class Insert : Form
     {
-        public Form1()
+        public Insert()
         {
             InitializeComponent();
         }
